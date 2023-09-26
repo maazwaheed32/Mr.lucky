@@ -1,0 +1,38 @@
+body
+{
+    background-color: rgb(216, 165, 26);
+}
+h1
+{
+    font-size: calc(70px);
+    background-color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2
+{
+    font-size: calc(40px);
+    color:black;
+    font-family: sans-serif;
+    background-color: aliceblue;
+}
+h3
+{
+    font-size: x-large;
+    color:black;
+    font-family: sans-serif;
+    background-color: yellow ;
+
+}
+p
+{
+    font-size: calc(25px);
+    color: aliceblue;
+    font-family: serif;
+}
+ul
+{
+    color: aliceblue;
+    font-family: serif;
+
+}
